@@ -1,0 +1,10 @@
+Premier sprint: 
+-création du trello (Gabriel)
+-création du github (Bilal)
+-création du dossier README.md (Mariem)
+
+Deuxième sprint:
+-ajout de la page html (Bilal)
+-ajout de la page css (Gaël)
+-correction trello (Gabriel)
+-récap des sprint précedent et futur (Gaël)
