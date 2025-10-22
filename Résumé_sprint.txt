@@ -9,3 +9,5 @@ Deuxième sprint:
 -correction trello (Gabriel)
 -récap des sprint précedent et futur (Gaël)
 -ajout des langues espagnol et portugais dans le site web (Bilal)
+-correction de la page README.md (Mariem)
+-ajout de la photo du site (Gaël)
